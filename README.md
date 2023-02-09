@@ -1,2 +1,2 @@
-# diy-a11y
-Hacking, Switching, Combining: Understanding and Supporting DIY Assistive Technology Design by Blind People (CHI 2023)
+# Hacking, Switching, Combining: Understanding and Supporting DIY Assistive Technology Design by Blind People (CHI 2023)
+Data coming soon!
